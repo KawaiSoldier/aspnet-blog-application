@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "MZAZKLQwFXR8vVOOpVSYUfnpXn8oAN5U3Ln7d/sJYYF5FJI1H3PQCEX8FHgI10xrdWlMiRlkUqQnXtgWUs+FIg==",
+  "success": true,
+  "projectFilePath": "C:\\project\\Proje\\aspnet-blog-application\\aspnet-blog-application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.data.sqlite\\8.0.3\\microsoft.data.sqlite.8.0.3.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.3\\microsoft.data.sqlite.core.8.0.3.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.6\\sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
+    "C:\\Users\\ibrah\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
